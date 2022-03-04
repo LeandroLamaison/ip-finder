@@ -9,8 +9,8 @@ The idea of the project was idealized by Otávio Gallego, in course "Aprenda Gol
 * Run: ```go build``` for creating executable file
 * Choose one of the commands
 
-### ``` ip-finder ip {url} ```
+### ``` ./ip-finder ip {url} ```
 Returns the ip addresses of the url
 
-### ``` ip-finder server {url} ```
+### ``` ./ip-finder server {url} ```
 Returns the server names of the url
